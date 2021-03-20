@@ -7,12 +7,15 @@
 
 ### Lecture 1
 
-[Scoreboard](https://open.kattis.com/contests/ojtyg9)
++ [Scoreboard](https://open.kattis.com/contests/ojtyg9)
++ [Sample Codes](tree/main/lec01)
 
 ### Lecture 2
 
-[Scoreboard](https://open.kattis.com/contests/z7dmpk)
++ [Scoreboard](https://open.kattis.com/contests/z7dmpk)
++ [Sample Codes](tree/main/lec02)
 
 ### Lecture 3
 
-[Scoreboard](https://open.kattis.com/contests/jwxvny)
++ [Scoreboard](https://open.kattis.com/contests/jwxvny)
++ [Sample Codes](tree/main/lec03)
