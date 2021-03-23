@@ -1,13 +1,10 @@
-import java.io.InputStreamReader
-import java.util.*
-
 private class Scan {
-    val lines = InputStreamReader(System.`in`).readLines()
+    val lines = java.io.InputStreamReader(System.`in`).readLines()
     var cur = 0
-    var st = StringTokenizer(lines[0])
+    var st = java.util.StringTokenizer(lines[0])
     fun next(): String {
         while(!st.hasMoreTokens())
-            st = StringTokenizer(lines[++cur])
+            st = java.util.StringTokenizer(lines[++cur])
         return st.nextToken()
     }
     fun nextInt() = next().toInt()
